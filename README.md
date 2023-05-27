@@ -50,12 +50,9 @@
 [<img align="left" alt="Pytorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][pytorch]
 [<img align="left" alt="Scipy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png" />][scipy]
 [<img align="left" alt="Seaborn" width="26px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" />][seaborn]
-
-
-
 <br />
 <br />
-______________________________________________________________________________
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
