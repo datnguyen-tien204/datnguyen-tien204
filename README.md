@@ -10,10 +10,8 @@
 - ✍ You can find my projects here [portfolio]
 - 🙋‍♂️ Age: 19
 - 🎓 My major is AI, DataScience and Computer Vision
-- 🔭 I’m currently working on my project Machine Learning.
-- 🌱 I’m currently learning Machine Learning and Computer Vision
+- 🔭 I’m currently working on my project Machine Learning,Computer Vision and NLP.
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 3 languages ( English, China, Vietnam)
 - ⭐ Hobbies: China Cultures, West Lake-Hangzhou, Nanjing, Beijing
