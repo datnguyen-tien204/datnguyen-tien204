@@ -77,7 +77,7 @@
 
 [instagram]: https://www.instagram.com/_ngtdt204
 [linkedin]: https://www.linkedin.com/in/dat-nguyentien204
-[portfolio]: https://github.com/datnguyen-tien204
+[portfolio]: https://github.com/datnguyen-tien204?tab=repositories
 [flask]: https://github.com/datnguyen-tien204/BardAPIwithFlask
 [Csharp]: https://github.com/datnguyen-tien204/StudentMark2
 [facebook]: https://www.facebook.com/charrise.elaina
