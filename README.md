@@ -11,8 +11,6 @@
 - 🙋‍♂️ Age: 19
 - 🎓 My major is AI, DataScience and Computer Vision
 - 🔭 I’m currently working on my project Machine Learning,Computer Vision and NLP.
-- 👯 I’m looking to collaborate on open source
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 3 languages ( English, China, Vietnam)
 - ⭐ Hobbies: China Cultures, West Lake-Hangzhou, Nanjing, Beijing
 
