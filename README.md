@@ -3,7 +3,7 @@
 [English](README.md) | [简体中文](README.zh-CN.md) | [Tiếng việt](README.vietnam-vn.md)
 
 
- <img align="center" alt="GIF" src="https://github.com/datnguyen-tien204/datnguyen-tien204/blob/main/nguyendat.gif?raw=true" width="600" height="338" />
+ <img align="center" alt="GIF" src="https://github.com/datnguyen-tien204/datnguyen-tien204/blob/main/ezgif.com-video-to-gif.gif?raw=true" width="600" height="338" />
 
 
 ## I'm a Freshman, Researcher and Developer!!
