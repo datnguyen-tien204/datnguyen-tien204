@@ -15,7 +15,7 @@
 - ⭐ Hobbies: China Cultures, West Lake-Hangzhou, Nanjing, Beijing
 
 
-### Talk with me, I am kinda awesome:
+### My information:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="holisitc_developer | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png" />][facebook]
 [<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
