@@ -6,7 +6,7 @@
  <img align="center" alt="GIF" src="https://github.com/datnguyen-tien204/datnguyen-tien204/blob/main/ezgif.com-video-to-gif.gif?raw=true" width="600" height="338" />
 
 
-## I'm a Freshman, Researcher and Developer!!
+## I'm Second - Year Student, Researcher and Developer!!
 - ✍ You can find my projects here [portfolio]
 - 🙋‍♂️ Age: 19
 - 🎓 My major is AI, DataScience and Computer Vision
