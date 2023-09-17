@@ -5,17 +5,14 @@
  <img align="center" alt="GIF" src="https://github.com/datnguyen-tien204/datnguyen-tien204/blob/main/nguyendat.gif?raw=true" width="600" height="338" />
 
 
-## Tôi là sinh viên năm nhất đại học, nghiên cứu sinh và phát triển phần mềm!!
+## Tôi là sinh viên năm hai đại học, nghiên cứu sinh và phát triển phần mềm!!
 - ✍ Bạn có thể tìm tất cả dự án của tôi tại đây [portfolio]
 - 🙋‍♂️ Tuổi: 19
 - 🎓 Chuyên ngành AI, Khoa học dữ liệu và thị giác máy tính.
 - 🔭 Hiện tại, tôi đang thực hiện dự án Machine Learning.
 - 🌱 Hiện tại, tôi đang học Machine Learning và thị giác máy tính.
-- 👯 Tôi đang tìm cách cộng tác trên mã nguồn mở.
-- 💬 Hãy hỏi tôi về gì đó....
-- 😄 Danh xưng: He/Him
 - ⚡ Thú vị về tôi: Tôi có thể nói được 3 thứ tiếng ( Tiếng Anh, Trung Quốc, Việt Nam)
-- ⭐ Sở thích: Văn hoá trung quốc, Tây Hồ-Hàng Châu, Nam Kinh, Bắc Kinh.
+- ⭐ Sở thích: Văn hoá trung quốc, Tây Hồ-Hàng Châu, Nam Kinh, Bắc Kinh, Thượng Hải, Trường Sa- Hồ Nam.
 
 
 ### Một số thông tin cá nhân về tôi:
