@@ -10,7 +10,7 @@
 - ✍ You can find my projects here [portfolio]
 - 🙋‍♂️ Age: 19
 - 🎓 My major is AI, DataScience and Computer Vision
-- 🔭 I’m currently working on my project Machine Learning,Computer Vision and NLP.
+- 🔭 Researching in Natural Language Processing.
 - ⚡ Fun fact: I speak 3 languages ( English, Chinese, Vietnamese)
 - ⭐ Hobbies: China Cultures, West Lake-Hangzhou, Nanjing, Beijing, Shanghai, Changsha-Hunan
 
@@ -18,7 +18,6 @@
 ### My information:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="holisitc_developer | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png" />][facebook]
-[<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 [<img align="left" alt="holisitc_developer | Quora" width="22px" src="https://www.pngfind.com/pngs/m/420-4203226_quora-icon-hd-png-download.png" />][quora]
 [<img align="left" alt="holisitc_developer | Weibo" width="22px" src="https://www.svgrepo.com/show/299491/weibo.svg" />][weibo]
 [<img align="left" alt="holisitc_developer | Xiaohongshu" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/XiaohongshuLOGO.png" />][xiaohongshu]
@@ -28,16 +27,13 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][Csharp]
+
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][portfolio]
 [<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][flask]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][portfolio]
-[<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][portfolio]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][portfolio]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][portfolio]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][portfolio]
-[<img align="left" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />][portfolio]
-[<img align="left" alt="Keras" width="26px" src="https://w7.pngwing.com/pngs/571/118/png-transparent-keras-logo.png" />][keras]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][portfolio]
+[<img align="left" alt="GitHub" width="26px"
+src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][portfolio]
+[<img align="left" alt="Docker" width="26px" src="https://avatars.githubusercontent.com/u/5429470?s=280&v=4" />][portfolio]
 [<img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />][tensorflow]
 [<img align="left" alt="Scikit-learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" />][scikitlearn]
 [<img align="left" alt="Pytorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][pytorch]
@@ -49,7 +45,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Dat Nguyen-Tien's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=datnguyen-tien204&show_icons=true&hide_border=true" />
+  <img align="left" alt="Dat Nguyen-Tien's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=datnguyen-tien204&show_icons=true&theme=radical" />
 
 </details>
 
