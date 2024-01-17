@@ -52,8 +52,7 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 <details>
   <summary>:zap: Most Used Language</summary>
 
-<img align="left" alt="Dat-NguyenTien's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datnguyen-tien204" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datnguyen-tien204&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details>
