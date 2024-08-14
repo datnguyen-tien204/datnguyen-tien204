@@ -7,6 +7,7 @@
 
 
 ## I'm Second - Year Student, Researcher and Developer!!
+- My personal page [personal_page]
 - ✍ You can find my projects here [portfolio]
 - 🙋‍♂️ Age: 19
 - 🎓 My major is AI, DataScience and Computer Vision
@@ -62,6 +63,7 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 
 </details>
 
+[personal_page]: https://datnguyen-tien204.github.io/
 [instagram]: https://www.instagram.com/_ngtdt204
 [linkedin]: https://www.linkedin.com/in/dat-nguyentien204
 [portfolio]: https://github.com/datnguyen-tien204?tab=repositories
