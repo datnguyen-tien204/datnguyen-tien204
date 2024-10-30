@@ -9,7 +9,7 @@
 ## I'm Second - Year Student, Researcher and Developer!!
 - My personal page [personal_page]
 - ✍ You can find my projects here [portfolio]
-- 🙋‍♂️ Age: 19
+- 🙋‍♂️ Age: 20
 - 🎓 My major is AI, DataScience and Computer Vision
 - 🔭 Researching in Natural Language Processing.
 - ⚡ Fun fact: I speak 3 languages ( English, Chinese, Vietnamese)
