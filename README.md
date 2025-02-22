@@ -1,4 +1,4 @@
-### Hi there, I'm Dat Nguyen-Tien  
+![image](https://github.com/user-attachments/assets/0b701565-cc29-4171-a7e2-685f02412058)### Hi there, I'm Dat Nguyen-Tien  
 
 [English](README.md) | [简体中文](README.zh-CN.md) | [Tiếng việt](README.vietnam-vn.md)
 
@@ -18,8 +18,8 @@
 
 ### My information:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="holisitc_developer | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png" />][facebook]
-[<img align="left" alt="holisitc_developer | Quora" width="22px" src="https://www.pngfind.com/pngs/m/420-4203226_quora-icon-hd-png-download.png" />][quora]
+[<img align="left" alt="holisitc_developer | Google Scholar" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" />][Scholar]
+[<img align="left" alt="holisitc_developer | OrcID" width="22px" src="https://static-00.iconduck.com/assets.00/orcid-icon-2048x2048-q87cnnge.png" />][OCRID]
 [<img align="left" alt="holisitc_developer | Weibo" width="22px" src="https://www.svgrepo.com/show/299491/weibo.svg" />][weibo]
 [<img align="left" alt="holisitc_developer | Xiaohongshu" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/XiaohongshuLOGO.png" />][xiaohongshu]
 [<img align="left" alt="holisitc_developer | Kaggle" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png?20140912155123" />][kaggle]
@@ -64,6 +64,8 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 </details>
 
 [personal_page]: https://datnguyen-tien204.github.io/
+[Scholar]: https://scholar.google.com/citations?user=mtr7I-AAAAAJ&hl
+[OCRID]: https://orcid.org/0009-0007-1147-1958
 [instagram]: https://www.instagram.com/_ngtdt204
 [linkedin]: https://www.linkedin.com/in/dat-nguyentien204
 [portfolio]: https://github.com/datnguyen-tien204?tab=repositories
