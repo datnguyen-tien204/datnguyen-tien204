@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0b701565-cc29-4171-a7e2-685f02412058)### Hi there, I'm Dat Nguyen-Tien  
+### Hi there, I'm Dat Nguyen-Tien  
 
 [English](README.md) | [简体中文](README.zh-CN.md) | [Tiếng việt](README.vietnam-vn.md)
 
