@@ -6,12 +6,12 @@
  <img align="center" alt="GIF" src="https://github.com/datnguyen-tien204/datnguyen-tien204/blob/main/ezgif.com-video-to-gif.gif?raw=true" width="600" height="338" />
 
 
-## I'm Second - Year Student, Researcher and Developer!!
+## I'm Three - Year Student, Researcher and Developer!!
 - My personal page [personal_page]
 - ✍ You can find my projects here [portfolio]
-- 🙋‍♂️ Age: 20
+- 🙋‍♂️ Age: 21
 - 🎓 My major is AI, DataScience and Computer Vision
-- 🔭 Researching in Natural Language Processing.
+- 🔭 Researching in GenAI, Diffusion Model, GAN and Object Detection
 - ⚡ Fun fact: I speak 3 languages ( English, Chinese, Vietnamese)
 - ⭐ Hobbies: China Cultures, West Lake-Hangzhou, Nanjing, Beijing, Shanghai, Changsha-Hunan
 
