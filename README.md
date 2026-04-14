@@ -29,7 +29,6 @@
 
 ### Languages and Tools:
 
-
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][portfolio]
 [<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][flask]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][portfolio]
@@ -37,7 +36,7 @@
 src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][portfolio]
 [<img align="left" alt="Docker" width="26px" src="https://avatars.githubusercontent.com/u/5429470?s=280&v=4" />][portfolio]
 [<img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />][tensorflow]
-[<img align="left" alt="Scikit-learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" />][scikitlearn]
+[<img align="left" alt="Scikit-learn" width="26px" src="https://thegioimaychu.vn/blog/wp-content/uploads/2023/10/TheGioiMayChu-Blog-Image.jpg" />][scikitlearn]
 [<img align="left" alt="Pytorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][pytorch]
 [<img align="left" alt="Scipy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png" />][scipy]
 <br />
