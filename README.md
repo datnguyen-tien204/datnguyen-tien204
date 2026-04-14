@@ -1,5 +1,6 @@
 ### Hi there, I'm Dat Nguyen-Tien  
 
+
 [English](README.md) | [简体中文](README.zh-CN.md) | [Tiếng việt](README.vietnam-vn.md)
 
 
@@ -19,7 +20,7 @@
 ### My information:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="holisitc_developer | Google Scholar" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" />][Scholar]
-[<img align="left" alt="holisitc_developer | OrcID" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1024px-ORCID_iD.svg.png" />][OCRID]
+[<img align="left" alt="holisitc_developer | OrcID" width="22px" src="https://e7.pngegg.com/pngimages/436/840/png-clipart-orcid-research-object-digital-object-identifier-others-miscellaneous-text.png" />][OCRID]
 [<img align="left" alt="holisitc_developer | Weibo" width="22px" src="https://www.svgrepo.com/show/299491/weibo.svg" />][weibo]
 [<img align="left" alt="holisitc_developer | Xiaohongshu" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/XiaohongshuLOGO.png" />][xiaohongshu]
 [<img align="left" alt="holisitc_developer | Kaggle" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png?20140912155123" />][kaggle]
