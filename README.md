@@ -34,10 +34,10 @@
 [<img align="left" alt="GitHub" width="26px"
 src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][portfolio]
 [<img align="left" alt="Docker" width="26px" src="https://avatars.githubusercontent.com/u/5429470?s=280&v=4" />][portfolio]
-[<img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />][tensorflow]
+[<img align="left" alt="Tensorflow" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8RVOErv4i_uPwV7iu0mbZpXs7zxLADAbTGg&s" />][tensorflow]
 [<img align="left" alt="Scikit-learn" width="26px" src="https://thegioimaychu.vn/blog/wp-content/uploads/2023/10/TheGioiMayChu-Blog-Image.jpg" />][scikitlearn]
 [<img align="left" alt="Pytorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][pytorch]
-[<img align="left" alt="Scipy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png" />][scipy]
+[<img align="left" alt="Scipy" width="26px" src="https://scipy.org/images/logo.svg" />][scipy]
 <br />
 <br />
 ---
