@@ -7,22 +7,21 @@
  <img align="center" alt="GIF" src="https://github.com/datnguyen-tien204/datnguyen-tien204/blob/main/ezgif.com-video-to-gif.gif?raw=true" width="600" height="338" />
 
 
-## I'm Three - Year Student, Researcher and Developer!!
+## I'm Final - Year Student, Researcher and Developer!!
 - My personal page [personal_page]
 - ✍ You can find my projects here [portfolio]
-- 🙋‍♂️ Age: 21
+- 🙋‍♂️ Age: 22
 - 🎓 My major is AI, DataScience and Computer Vision
 - 🔭 Researching in GenAI, Diffusion Model, GAN and Object Detection
 - ⚡ Fun fact: I speak 3 languages ( English, Chinese, Vietnamese)
 - ⭐ Hobbies: China Cultures, West Lake-Hangzhou, Nanjing, Beijing, Shanghai, Changsha-Hunan
 
-
 ### My information:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="holisitc_developer | Google Scholar" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" />][Scholar]
+[<img align="left" alt="holisitc_developer | Google Scholar" width="22px" src="https://images.icon-icons.com/2108/PNG/512/google_scholar_icon_130918.png" />][Scholar]
 [<img align="left" alt="holisitc_developer | OrcID" width="22px" src="https://e7.pngegg.com/pngimages/436/840/png-clipart-orcid-research-object-digital-object-identifier-others-miscellaneous-text.png" />][OCRID]
 [<img align="left" alt="holisitc_developer | Weibo" width="22px" src="https://www.svgrepo.com/show/299491/weibo.svg" />][weibo]
-[<img align="left" alt="holisitc_developer | Xiaohongshu" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/XiaohongshuLOGO.png" />][xiaohongshu]
+[<img align="left" alt="holisitc_developer | Xiaohongshu" width="22px" src="https://images.seeklogo.com/logo-png/55/2/xiaohongshu-logo-png_seeklogo-557258.png" />][xiaohongshu]
 [<img align="left" alt="holisitc_developer | Kaggle" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png?20140912155123" />][kaggle]
 
 <br />
