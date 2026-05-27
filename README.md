@@ -45,14 +45,15 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Dat Nguyen-Tien's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=datnguyen-tien204&show_icons=true&theme=radical" />
+  <img align="left" alt="Dat Nguyen-Tien's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=datnguyen-tien204&show_icons=true&theme=radical" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Language</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datnguyen-tien204&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=datnguyen-tien204&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details>
