@@ -1,4 +1,3 @@
-```yaml
 name: Update README Analytics
 
 on:
@@ -47,4 +46,3 @@ jobs:
 
           git commit -m "chore: refresh profile analytics"
           git push
-```
