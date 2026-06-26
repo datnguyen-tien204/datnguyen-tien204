@@ -103,18 +103,35 @@ I enjoy transforming research ideas into practical systems, improving model perf
 
 ### Development
 
-<img src="https://skillicons.dev/icons?i=python,flask,git,github,docker,vscode&theme=dark" alt="Development tools" />
-
-### AI, Machine Learning and Data
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,opencv&theme=dark" alt="Machine learning tools" />
+<img src="https://skillicons.dev/icons?i=python,flask,git,github,docker,vscode&theme=dark" alt="Python, Flask, Git, GitHub, Docker and Visual Studio Code" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+### AI, Machine Learning and Computer Vision
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+
+<br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+
+<br><br>
+
+### Cloud, Storage and Databases
+
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="Amazon Web Services" />
+<img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
+<img src="https://img.shields.io/badge/TiDB-3C64B1?style=for-the-badge&logo=tidb&logoColor=white" alt="TiDB" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 
 </div>
 
@@ -146,21 +163,84 @@ Statistics cards are generated securely through GitHub Actions. Private reposito
 
 ---
 
-## Professional Profiles
+## Connect, Research and Professional Profiles
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 
-| Platform | Profile |
-|:--|:--|
-| Personal website | [datnguyen-tien204.github.io](https://datnguyen-tien204.github.io/) |
-| Google Scholar | [Research publications and citations](https://scholar.google.com/citations?user=mtr7I-AAAAAJ&hl) |
-| ORCID | [0009-0007-1147-1958](https://orcid.org/0009-0007-1147-1958) |
-| LinkedIn | [dat-nguyentien204](https://www.linkedin.com/in/dat-nguyentien204) |
-| Kaggle | [tnguynfew](https://www.kaggle.com/tnguynfew) |
-| Weibo | [Profile](https://weibo.com/u/7730984206) |
-| Xiaohongshu | [Profile](https://www.xiaohongshu.com/user/profile/625adc0e0000000010009a74) |
+<a href="https://datnguyen-tien204.github.io/">
+  <img src="https://img.shields.io/badge/Personal_Website-Visit_Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" />
+</a>
 
-</div>
+<sub>Projects, research interests, experience and selected work.</sub>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<a href="https://scholar.google.com/citations?user=mtr7I-AAAAAJ&hl">
+  <img src="https://img.shields.io/badge/Google_Scholar-Research_Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+</a>
+
+<sub>Publications, citations and academic research profile.</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" valign="top">
+
+<a href="https://orcid.org/0009-0007-1147-1958">
+  <img src="https://img.shields.io/badge/ORCID-0009--0007--1147--1958-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+</a>
+
+<sub>Persistent researcher identity and academic record.</sub>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<a href="https://www.linkedin.com/in/dat-nguyentien204">
+  <img src="https://img.shields.io/badge/LinkedIn-Dat_Nguyen--Tien-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<sub>Professional background, experience and connections.</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" valign="top">
+
+<a href="https://www.kaggle.com/tnguynfew">
+  <img src="https://img.shields.io/badge/Kaggle-tnguynfew-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+</a>
+
+<sub>Machine learning notebooks, datasets and competitions.</sub>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<a href="https://weibo.com/u/7730984206">
+  <img src="https://img.shields.io/badge/Weibo-Connect-E6162D?style=for-the-badge&logo=sinaweibo&logoColor=white" alt="Weibo" />
+</a>
+
+<sub>Updates, interests and social activity in Chinese.</sub>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center" valign="top">
+
+<a href="https://www.xiaohongshu.com/user/profile/625adc0e0000000010009a74">
+  <img src="https://img.shields.io/badge/Xiaohongshu-Follow_Profile-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="Xiaohongshu" />
+</a>
+
+<sub>Culture, lifestyle and personal interests.</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
