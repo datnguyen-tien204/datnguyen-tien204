@@ -1,87 +1,175 @@
-### Hi there, I'm Dat Nguyen-Tien  
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:0ea5e9&height=220&section=header&text=Dat%20Nguyen-Tien&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%20Researcher%20%7C%20Developer%20%7C%20Computer%20Vision&descAlignY=58&descSize=18&animation=fadeIn" alt="Dat Nguyen-Tien profile banner" />
 
-[English](README.md) | [简体中文](README.zh-CN.md) | [Tiếng việt](README.vietnam-vn.md)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=780&height=60&lines=Building+intelligent+systems+with+AI;Researching+Generative+AI+and+Diffusion+Models;Exploring+Computer+Vision+and+Object+Detection;Turning+research+ideas+into+real-world+applications" alt="Typing introduction" />
+</a>
 
+<p>
+  <a href="README.md"><strong>English</strong></a>
+  &nbsp;·&nbsp;
+  <a href="README.zh-CN.md">简体中文</a>
+  &nbsp;·&nbsp;
+  <a href="README.vietnam-vn.md">Tiếng Việt</a>
+</p>
 
- <img align="center" alt="GIF" src="https://github.com/datnguyen-tien204/datnguyen-tien204/blob/main/ezgif.com-video-to-gif.gif?raw=true" width="600" height="338" />
+<p>
+  <a href="https://datnguyen-tien204.github.io/">
+    <img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=mtr7I-AAAAAJ&hl">
+    <img src="https://img.shields.io/badge/Google_Scholar-2563EB?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+  </a>
+  <a href="https://orcid.org/0009-0007-1147-1958">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
+  <a href="https://www.linkedin.com/in/dat-nguyentien204">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=datnguyen-tien204&label=PROFILE+VIEWS&color=0ea5e9&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/datnguyen-tien204?label=FOLLOWERS&style=flat-square&color=2563eb" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/datnguyen-tien204?affiliations=OWNER&label=STARS&style=flat-square&color=7c3aed" alt="GitHub stars" />
+</p>
 
-## I'm Final - Year Student, Researcher and Developer!!
-- My personal page [personal_page]
-- ✍ You can find my projects here [portfolio]
-- 🙋‍♂️ Age: 22
-- 🎓 My major is AI, DataScience and Computer Vision
-- 🔭 Researching in GenAI, Diffusion Model, GAN and Object Detection
-- ⚡ Fun fact: I speak 3 languages ( English, Chinese, Vietnamese)
-- ⭐ Hobbies: China Cultures, West Lake-Hangzhou, Nanjing, Beijing, Shanghai, Changsha-Hunan
+</div>
 
-### My information:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="holisitc_developer | Google Scholar" width="22px" src="https://images.icon-icons.com/2108/PNG/512/google_scholar_icon_130918.png" />][Scholar]
-[<img align="left" alt="holisitc_developer | OrcID" width="22px" src="https://e7.pngegg.com/pngimages/436/840/png-clipart-orcid-research-object-digital-object-identifier-others-miscellaneous-text.png" />][OCRID]
-[<img align="left" alt="holisitc_developer | Weibo" width="22px" src="https://www.svgrepo.com/show/299491/weibo.svg" />][weibo]
-[<img align="left" alt="holisitc_developer | Xiaohongshu" width="22px" src="https://images.seeklogo.com/logo-png/55/2/xiaohongshu-logo-png_seeklogo-557258.png" />][xiaohongshu]
-[<img align="left" alt="holisitc_developer | Kaggle" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png?20140912155123" />][kaggle]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][portfolio]
-[<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][flask]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][portfolio]
-[<img align="left" alt="GitHub" width="26px"
-src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][portfolio]
-[<img align="left" alt="Docker" width="26px" src="https://avatars.githubusercontent.com/u/5429470?s=280&v=4" />][portfolio]
-[<img align="left" alt="Tensorflow" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8RVOErv4i_uPwV7iu0mbZpXs7zxLADAbTGg&s" />][tensorflow]
-[<img align="left" alt="Scikit-learn" width="26px" src="https://thegioimaychu.vn/blog/wp-content/uploads/2023/10/TheGioiMayChu-Blog-Image.jpg" />][scikitlearn]
-[<img align="left" alt="Pytorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][pytorch]
-[<img align="left" alt="Scipy" width="26px" src="https://scipy.org/images/logo.svg" />][scipy]
-<br />
-<br />
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## About Me
 
-  <img align="left" alt="Dat Nguyen-Tien's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=datnguyen-tien204&show_icons=true&theme=radical" />
+<table>
+<tr>
+<td width="58%" valign="top">
 
-</details>
+I am a final-year student, researcher, and developer working in **Artificial Intelligence**, **Data Science**, and **Computer Vision**.
 
-<details>
-  <summary>:zap: Most Used Language</summary>
+My current interests include:
 
+- Generative AI and diffusion models
+- Generative adversarial networks
+- Object detection and visual recognition
+- Applied machine learning systems
+- Research-driven AI applications
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=datnguyen-tien204&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+I enjoy transforming research ideas into practical systems, improving model performance, and exploring modern approaches in artificial intelligence.
 
-<details>
-  <summary>:zap: GitHub Contributions</summary>
+</td>
+<td width="42%" align="center">
 
-  <img align="left" alt="Dat Nguyen-Tien's GitHub Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=datnguyen-tien204&theme=radical&hide_border=true" />
+<img src="https://github.com/datnguyen-tien204/datnguyen-tien204/blob/main/ezgif.com-video-to-gif.gif?raw=true" width="100%" alt="AI development animation" />
 
-</details>
+</td>
+</tr>
+</table>
 
-[personal_page]: https://datnguyen-tien204.github.io/
-[Scholar]: https://scholar.google.com/citations?user=mtr7I-AAAAAJ&hl
-[OCRID]: https://orcid.org/0009-0007-1147-1958
-[instagram]: https://www.instagram.com/_ngtdt204
-[linkedin]: https://www.linkedin.com/in/dat-nguyentien204
-[portfolio]: https://github.com/datnguyen-tien204?tab=repositories
-[flask]: https://github.com/datnguyen-tien204/BardAPIwithFlask
-[Csharp]: https://github.com/datnguyen-tien204/StudentMark2
-[facebook]: https://www.facebook.com/charrise.elaina
-[quora]: https://www.quora.com/profile/%C4%90%E1%BA%A1t-Nguy%E1%BB%85n-652
-[weibo]: https://weibo.com/u/7730984206
-[xiaohongshu]: https://www.xiaohongshu.com/user/profile/625adc0e0000000010009a74
-[pycharm]: https://github.com/datnguyen-tien204/Titanic_Kaggle_Project
-[kaggle]: https://www.kaggle.com/tnguynfew
-[numpy]: https://numpy.org/
-[pandas]: https://pandas.pydata.org/
-[scikitlearn]: https://scikit-learn.org/stable/
-[tensorflow]: https://www.tensorflow.org/
-[pytorch]: https://pytorch.org/
-[seaborn]: https://seaborn.pydata.org/
-[scipy]: https://scipy.org/
-[keras]: https://keras.io/
+---
+
+## Research Focus
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<strong>Generative AI</strong><br>
+<sub>Intelligent content generation and foundation models</sub>
+</td>
+<td align="center" width="25%">
+<strong>Diffusion Models</strong><br>
+<sub>Image synthesis and generative modeling</sub>
+</td>
+<td align="center" width="25%">
+<strong>Computer Vision</strong><br>
+<sub>Visual understanding and image analysis</sub>
+</td>
+<td align="center" width="25%">
+<strong>Object Detection</strong><br>
+<sub>Detection, localization, and recognition</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Technology Stack
+
+<div align="center">
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=python,flask,git,github,docker,vscode&theme=dark" alt="Development tools" />
+
+### AI, Machine Learning and Data
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,opencv&theme=dark" alt="Machine learning tools" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<!--
+These SVG cards are generated by .github/workflows/update-readme-stats.yml.
+With the GH_STATS_TOKEN secret configured, private repository statistics are included.
+-->
+
+<img width="58%" src="./profile/stats.svg" alt="GitHub statistics including private activity" />
+<img width="39%" src="./profile/top-langs.svg" alt="Most used languages including private repositories" />
+
+<br><br>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=datnguyen-tien204&bg_color=0D1117&color=94A3B8&line=38BDF8&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true&radius=10" alt="GitHub contribution activity graph" />
+
+<br>
+
+<sub>
+Statistics cards are generated securely through GitHub Actions. Private repository names and details remain hidden.
+</sub>
+
+</div>
+
+---
+
+## Professional Profiles
+
+<div align="center">
+
+| Platform | Profile |
+|:--|:--|
+| Personal website | [datnguyen-tien204.github.io](https://datnguyen-tien204.github.io/) |
+| Google Scholar | [Research publications and citations](https://scholar.google.com/citations?user=mtr7I-AAAAAJ&hl) |
+| ORCID | [0009-0007-1147-1958](https://orcid.org/0009-0007-1147-1958) |
+| LinkedIn | [dat-nguyentien204](https://www.linkedin.com/in/dat-nguyentien204) |
+| Kaggle | [tnguynfew](https://www.kaggle.com/tnguynfew) |
+| Weibo | [Profile](https://weibo.com/u/7730984206) |
+| Xiaohongshu | [Profile](https://www.xiaohongshu.com/user/profile/625adc0e0000000010009a74) |
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2600&pause=1800&color=38BDF8&center=true&vCenter=true&repeat=true&width=650&height=70&lines=Strive+for+Excellence." alt="Strive for Excellence" />
+</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1d4ed8,100:0f172a&height=120&section=footer" alt="Footer banner" />
+
+</div>
