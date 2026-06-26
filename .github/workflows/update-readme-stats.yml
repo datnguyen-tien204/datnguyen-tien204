@@ -20,15 +20,15 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark_dimmed&border_radius=12&border_color=1F6FEB&title_color=38BDF8&icon_color=60A5FA
+          options: "username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=default&theme=github_dark_dimmed&border_radius=12&border_color=1F6FEB&title_color=38BDF8&icon_color=60A5FA"
           path: profile/stats.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
-      - name: Generate language statistics
+      - name: Generate private-aware language statistics
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=github_dark_dimmed&border_radius=12&border_color=1F6FEB&title_color=38BDF8
+          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&border_radius=12&border_color=1F6FEB&title_color=38BDF8"
           path: profile/top-langs.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
